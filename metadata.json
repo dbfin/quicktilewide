@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Name": "Quick Tile Wide",
+        "Description": "Quick Tile for wide monitors",
+        "Icon": "preferences-system-windows",
+        
+        "Authors": [
+            {
+                "Email": "vadim@dbfin.com",
+                "Name": "Vadim @ dbFin"
+            }
+        ],
+        "Id": "quicktilewide",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/dbfin/quicktilewide"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
